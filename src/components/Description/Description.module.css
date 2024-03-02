@@ -1,0 +1,47 @@
+.descriptionContainer {
+  background-color: #1437d3;
+  padding: 60px 20px 40px;
+}
+
+.title {
+  font-size: 24px;
+  line-height: 1.1;
+  text-align: center;
+  margin-bottom: 15px;
+  color: #dfe7e9f3;
+}
+
+.text {
+  text-align: center;
+  color: #dfe7e9f3;
+}
+
+@media screen and (min-width: 320px) {
+  .container {
+    max-width: 375px;
+  }
+
+  .descriptionContainer {
+    padding: 50px 20px 30px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .descriptionContainer {
+    padding: 70px 20px 40px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+
+  .descriptionContainer {
+    padding: 70px 20px 40px;
+  }
+}

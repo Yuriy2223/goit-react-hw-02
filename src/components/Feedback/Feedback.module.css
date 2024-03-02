@@ -1,0 +1,9 @@
+.listFeedback {
+  background-color: rgb(251, 255, 0);
+  padding: 20px;
+}
+
+.textFeedback {
+  color: #5276da;
+  padding-bottom: 10px;
+}

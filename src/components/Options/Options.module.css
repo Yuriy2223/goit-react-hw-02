@@ -1,0 +1,25 @@
+.optionsList {
+  background-color: #1437d3;
+  display: flex;
+  padding: 10px;
+}
+
+.btn {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 400;
+
+  margin-left: 20px;
+  width: 60px;
+  border: none;
+  border-radius: 10px;
+
+  color: #152a9ef3;
+  background-color: #d9d7e4;
+}
+
+.btn:hover {
+  color: #2511d4;
+  background-color: rgb(251, 255, 9)
+}
